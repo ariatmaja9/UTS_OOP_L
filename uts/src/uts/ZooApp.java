@@ -9,7 +9,8 @@ import java.util.Scanner;
 /**
  *
  * @author I Kadek Ari Atmaja
- * TGL 05 05 2024
+ * nim: 2201010161
+ * TGL : 5 05 2024
  */
 public class ZooApp {
     private static final int MAX_PENGUNJUNG = 100;
