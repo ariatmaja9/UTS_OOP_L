@@ -9,7 +9,7 @@ package uts;
  * @author kadek_0h9um6v
  */
 public class ZooVisitor {
-    private final String nama;
+    private String nama;
 
     public ZooVisitor(String nama) {
         this.nama = nama;
@@ -17,5 +17,9 @@ public class ZooVisitor {
 
     public String getNama() {
         return nama;
+    }
+
+    public void setNama(String nama) {
+        this.nama = nama;
     }
 }
